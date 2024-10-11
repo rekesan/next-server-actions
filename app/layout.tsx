@@ -34,6 +34,8 @@ export default function RootLayout({
             Learn more about&nbsp;
             <a
               className="underline text-blue-500"
+              target="_blank"
+              rel="noreferrer"
               href="https://nextjs.org/docs/app/building-your-application/data-fetching/server-actions-and-mutations"
             >
               Server Actions and Mutations here
